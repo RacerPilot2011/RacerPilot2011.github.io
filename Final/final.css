@@ -1,38 +1,38 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ps4-white-assets/base.png);
+    background-image: url(base.png);
 }
 
 .ds4.white.disconnected {
-    background: url(ps4-assets/disconnected.png);
+    background: url(disconnected.png);
 }
 
 .ds4.white .trigger {
-    background-image: url(ps4-white-assets/triggers.png);
+    background-image: url(triggers.png);
 }
 
 .ds4.white .bumper {
-    background-image: url(ps4-white-assets/bumper.png);
+    background-image: url(bumper.png);
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(ps4-white-assets/touchpad.png);
+    background-image: url(touchpad.png);
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(ps4-white-assets/start.png);
+    background-image: url(start.png);
 }
 
 .ds4.white .button {
-    background-image: url(ps4-white-assets/face.png);
+    background-image: url(face.png);
 }
 
 .ds4.white .stick {
-    background-image: url(ps4-white-assets/sticks.png);
+    background-image: url(sticks.png);
 }
 
 .ds4.white .face {
-    background-image: url(ps4-white-assets/dpad.png);
+    background-image: url(dpad.png);
 }
 
 /*END PS4 White Controller Styling*/
